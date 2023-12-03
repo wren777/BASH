@@ -1,7 +1,12 @@
 <details>
-<summary>Работа в командной строке Cygwin </summary>
+<summary>Mindmap веб приложения Я Маршруты</summary>
 
-![imageup.ru](https://imageup.ru/img71/4581304/snimok-ekrana-2023-10-17-212508.png)
-![imageup.ru](https://imageup.ru/img168/4581309/snimok-ekrana-2023-10-17-212229.png)
-![imageup.ru](https://imageup.ru/img17/4581310/snimok-ekrana-2023-10-17-212255.png)
+![imageup.ru](https://imageup.ru/img48/4583085/diagramma-bez-nazvaniia.jpg)
+</details>
+
+
+<details>
+<summary>Блок схема визуализации алгоритма выбора скорости</summary>
+
+![imageup.ru](https://imageup.ru/img235/4581282/blok-skhema-vizualizatsii-algoritma-vybora-skorostidrawio.png)
 </details>
